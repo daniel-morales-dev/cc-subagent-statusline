@@ -1,0 +1,15 @@
+{
+  "name": "cc-subagent-statusline",
+  "owner": {
+    "name": "Daniel Morales",
+    "url": "https://github.com/daniel-morales-dev"
+  },
+  "description": "Claude Code plugin: per-subagent rows in the subagent status line.",
+  "plugins": [
+    {
+      "name": "cc-subagent-statusline",
+      "source": "./",
+      "description": "Per-subagent rows in Claude Code's subagent status line: type, name, model, effort, context %, estimated cost, elapsed time, and edit count."
+    }
+  ]
+}

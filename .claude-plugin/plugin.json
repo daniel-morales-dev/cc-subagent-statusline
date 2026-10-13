@@ -1,0 +1,14 @@
+{
+  "name": "cc-subagent-statusline",
+  "displayName": "Subagent Statusline",
+  "version": "1.0.0",
+  "description": "Per-subagent rows in Claude Code's subagent status line: type, name, model, effort, context %, estimated cost, elapsed time, and edit count.",
+  "author": {
+    "name": "Daniel Morales",
+    "url": "https://github.com/daniel-morales-dev"
+  },
+  "homepage": "https://github.com/daniel-morales-dev/cc-subagent-statusline",
+  "repository": "https://github.com/daniel-morales-dev/cc-subagent-statusline",
+  "license": "MIT",
+  "keywords": ["statusline", "subagents", "status-line"]
+}
